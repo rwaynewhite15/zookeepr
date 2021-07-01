@@ -144,6 +144,24 @@
         "anxious"
       ],
       "id": "14"
+    },
+    {
+      "name": "Walter",
+      "species": "Water Monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "BOBBY ",
+      "species": "Water Monkey",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
     }
   ]
 }
